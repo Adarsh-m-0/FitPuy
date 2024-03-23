@@ -45,9 +45,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The Fitpuy team acknowledges the contributions of all developers and contributors who have helped make this project possible.
 - Special thanks to [OpenAI](https://openai.com/) for providing the language model used to generate this README template.
 
----
 
-Feel free to customize this README with additional information specific to your Fitpuy project. Happy coding!
 
 
 
