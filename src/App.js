@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import BMICalculator from './pages/BMICalculator';
 import Home from './pages/Home'; 
+import Dashboard from './pages/Dashboard';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <div>
         <Navbar />
         <Routes>
+        <Route path="/Dashboard" element={<Dashboard />} />
           <Route path="/bmi-calculator" element={<BMICalculator />} />
           <Route path="/" element={<Home />} /> {/* Default route */}
         </Routes>

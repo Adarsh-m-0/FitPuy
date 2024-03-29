@@ -18,6 +18,9 @@ const Navbar = () => {
           <li className="nav-item">
               <Link className="nav-link" to="/">Home</Link>
             </li>
+          <li className="nav-item">
+              <Link className="nav-link" to="/Dashboard">Dashboard</Link>
+            </li>
             <li className="nav-item">
               <Link className="nav-link" to="/bmi-calculator">BMI Calculator</Link>
             </li>
